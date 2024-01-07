@@ -1,24 +1,23 @@
 # Linderman Moura
 
-Sou um estudante de ciências da computação buscando oportunidades de estágio para ingressar na área de desenvolvimento.
+Graduando em Ciências da Computação, apaixonado por desafios e inovação. Em constante busca por conhecimento, tenho dedicado meu tempo a explorar diversas áreas da computação, desde algoritmos e estruturas de dados até desenvolvimento de software e desenvolvimento web.
 
-Possuo excelente capacidade de comunicação e relacionamento interpessoal, sempre buscando me integrar a equipe somando minhas habilidades e absorvendo conhecimento nesse processo.
-
-Adoro aprender coisas novas, estou sempre disposto a compartilhar conhecimento, gosto de buscar novas soluções para os problemas e sempre fornecer uma ótica diferente sobre o dilema abordado trabalhando sempre com foco em metas e objetivos.
-
-Um hobby que adoro é narrar RPG, a criação de mundos imaginários e trazer pessoas para interagir com esse mundo é extremamente gratificante, trabalho em conjunto com meus jogadores para dar forma ao mundo e criar sistemas e deixar a narrativa mais customizada dando liberdade para os jogadores realizarem seus desejos e de seus personagens.
+Estou ansioso para aplicar minha bagagem acadêmica e habilidades práticas em projetos que impulsionem a evolução tecnológica. Pronto para enfrentar os desafios e contribuir para soluções inovadoras!
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/Lindermanbr/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:linderman.moura@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/linderman-moura/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/Lindermanbr/)
 
 ### Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot)
+
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
